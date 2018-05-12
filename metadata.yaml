@@ -1,0 +1,36 @@
+_repo: Civilisation--Its-Cause-and-CureAnd-Other-Essays_44094
+_version: 0.1.0
+alternative_title: 'Civilization: Its Cause and Cure'
+covers:
+- cover_type: archival
+  image_path: 44094-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Carpenter, Edward
+    birthdate: 1844
+    deathdate: 1929
+    gutenberg_agent_id: '657'
+    url: http://www.gutenberg.org/2009/agents/657
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Carpenter
+description: ''
+gutenberg_issued: '2013-11-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44094'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Evolution'
+- !lcc 'HM'
+- !lcsh 'Science'
+- !lcsh 'Crime'
+- !lcsh 'Civilization'
+tableOfContents: 'Preface to complete edition -- Civilisation: its cause and cure
+  -- Modern science: a criticism -- The science of the future: a forecast -- Defence
+  of criminals: a criticism of morality -- Exfoliation: Lamarck versus Darwin -- Custom
+  -- A rational and human science -- The new morality -- Appendix: being notes on
+  some of the characteristics and customs of pre-civilised peoples.'
+title: 'Civilisation: Its Cause and Cure; and Other Essays'
+url: http://www.gutenberg.org/ebooks/44094
